@@ -1,5 +1,5 @@
+<a href="https://www.codewars.com/users/BenjaminRussell-me"><img src="https://www.codewars.com/users/BenjaminRussell-me/badges/large" width="350" /></a>
 <img src="https://res.cloudinary.com/dzjvh0z3f/image/upload/v1633465311/branding/icon_svg_jyjxc9.svg" width="50" />
-<img src="https://www.codewars.com/users/BenjaminRussell-me/badges/large" width="350" />
 
 #  Hi, I’m Benjamin Russell 👋
 ### How is your day going? ✨
